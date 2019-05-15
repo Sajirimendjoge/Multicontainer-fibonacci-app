@@ -1,0 +1,2 @@
+FROM nginx
+COPY ./defualt.conf  /usr/share/conf.d/default.conf
